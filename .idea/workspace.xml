@@ -4,27 +4,154 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b061d8f2-5928-4381-b35f-828778eb0cb8" name="Changes" comment="" />
+    <list default="true" id="b061d8f2-5928-4381-b35f-828778eb0cb8" name="Changes" comment="Создание репозиторий">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/Auth/SignInRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/Auth/UserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/BaseUrlSetUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/Orders/OrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/Orders/OrdersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/Orders/OrdersSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/User/CreateUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/User/RandomUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NomorepartiesApi/User/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Orders/CreateOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Orders/GetOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/UserUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/0223f923-2090-496c-8cd8-0ec1668daa1f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/042936c2-104c-4d5e-a4cc-ff4407bd26d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/04e0ed36-07b7-4862-beba-78248036753a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/05125b34-6d74-41fa-9bb8-e84f59d92879-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/1256b377-624e-4110-a858-d99beca5a271-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/2375c003-9557-4427-9d3d-14ddb4e10e28-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/242c47df-aac4-419a-9f10-79c8a28ae076-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/394058f1-dd62-456f-b774-aa486658ce16-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/3b85575e-ea3f-4620-911e-c4dc3fae47cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/5206e940-a41b-48b9-8fa7-ba3d937ef2cc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/5a563203-4f16-4004-8ac5-30d0334bff8a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/5ecb770f-947e-415f-92a5-3a5c936759bf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/6b84132b-4c56-4b07-8462-fb96c56168d0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/7834299a-bbda-45d6-af74-29d3d013426f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/859ceeb5-4971-4650-9c87-abb2ea41c6d1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/b27f626c-24a6-4a90-852a-56f59c050a04-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/b7721d6b-6e4e-4b0b-863d-390ccce3945a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c10883bf-0c72-413f-99bf-7a39f384705b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/c2af2010-0c17-48e3-b632-a911ce84c147-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/f1e40840-41f1-4d44-b859-e43afe5cdc19-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NFPnyeiIbnC4JeIE8jK0wqPirg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="NomorepartiesApi.Auth" />
+      <recent name="services.NomorepartiesSiteApi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in QA-java-diplom-2">
+    <configuration name="All in QA-java-diplom-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA-java-diplom-2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA-java-diplom-2" />
+      <option name="PACKAGE_NAME" value="Orders" />
+      <option name="MAIN_CLASS_NAME" value="Orders.CreateOrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateOrderTest.verifyOrderCreationByRegisteredUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA-java-diplom-2" />
+      <option name="PACKAGE_NAME" value="Orders" />
+      <option name="MAIN_CLASS_NAME" value="Orders.CreateOrderTest" />
+      <option name="METHOD_NAME" value="verifyOrderCreationByRegisteredUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Orders in QA-java-diplom-2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA-java-diplom-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Orders" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserUpdateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA-java-diplom-2" />
+      <option name="PACKAGE_NAME" value="User" />
+      <option name="MAIN_CLASS_NAME" value="User.UserUpdateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in QA-java-diplom-2" />
+        <item itemvalue="JUnit.Orders in QA-java-diplom-2" />
+        <item itemvalue="JUnit.CreateOrderTest" />
+        <item itemvalue="JUnit.CreateOrderTest.verifyOrderCreationByRegisteredUser" />
+        <item itemvalue="JUnit.UserUpdateTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,6 +161,29 @@
       <option name="presentableId" value="Default" />
       <updated>1679257027612</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создание репозиторий">
+      <created>1679257237465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679257237465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создание репозиторий" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание репозиторий" />
   </component>
 </project>
